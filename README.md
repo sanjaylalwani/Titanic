@@ -1,4 +1,4 @@
 # Titanic
-This notebook is for famous Kaggle competition Titanic. This is my first Kaggle project submission. Though my score definitely need to improvement, but I felt its good to share with others.
+Currently I am standing on 1765 position with 0.78468 score
 
 https://www.kaggle.com/c/titanic/overview
